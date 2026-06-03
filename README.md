@@ -16,3 +16,8 @@ Welcome to RecRoomium, The easy to use launcher for RecRoom private servers.
 
 
 Download at: https://recroomium-cdn.chillboiostudios.com/recroomium/patch1/RecRoomium-Launcher.zip
+
+
+# Source Code
+Source code will be provided when the launcher is finished. 
+Please note: The source code may not always be up to date with the updates available via the CDN. The source code is provided for your security, not as an alternative to the CDN.
