@@ -15,5 +15,5 @@ Welcome to RecRoomium, The easy to use launcher for RecRoom private servers.
 - Linux (Any Linux distro that supports Godot Game Engine)
 
 
-Download at: [https://recroomium-cdn.chillboiostudios.com/recroomium/patch1/RecRoomium-Launcher.zip](https://recroomium-cdn.chillboiostudios.com/recroomium/2.0.0-BETA-15/RecRoomium-Launcher-2.0.0-BETA-15.zip)
+Download at: [RecRoomium CDN (.zip File)](https://recroomium-cdn.chillboiostudios.com/recroomium/2.0.0-BETA-15/RecRoomium-Launcher-2.0.0-BETA-15.zip)
 
