@@ -4,9 +4,9 @@ Welcome to RecRoomium, The easy to use launcher for RecRoom private servers.
 
 # Currently Supported Servers:
 - EpicQuest
+- Radium
 
 # Future Servers:
-- Radium
 - RecRoom: A New Semester (RecRoom Remake)
 
 
